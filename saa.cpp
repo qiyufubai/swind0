@@ -19,7 +19,7 @@ void drawhead(){
 	//大头
 	setfillcolor(GREEN);
 	fillroundrect(240,60,400,220,200,200);
-	//大脸
+	//大脸。
 	setfillcolor(WHITE);
 	fillroundrect(260,100,380,210,200,200);
 	//眼眶
